@@ -1,0 +1,122 @@
+# Právní modality — Komentář k vyhlášce č. 270/2010 Sb., o inventarizaci majetku a závazků
+
+<!-- LOCAL-PRAVNI-MODALITY-GENERATED -->
+
+> Právní modality jsou základní normativní způsoby, jimiž právo působí na chování adresátů: přikazuje, zakazuje, dovoluje, zmocňuje, přiznává oprávnění, ukládá povinnosti a někdy také stabilizuje skutkový či právní stav domněnkou nebo fikcí. Tento dokument mapuje modality napříč komentovaným předpisem. **Metoda:** klasifikace byla provedena výhradně z lokálního doslovného znění předpisu citovaného v [01-obecna-organizace-inventarizace.md](01-obecna-organizace-inventarizace.md) a [02-vybrany-majetek-zaverecna.md](02-vybrany-majetek-zaverecna.md); každý fragment odkazuje na příslušné ustanovení. Odkaz do e-Sbírky slouží pouze k ověření identity a aktuálního veřejného znění téhož ustanovení, nikoli jako další obsahový zdroj. Hodnotové souvislosti, pokud jsou v repozitáři dostupné, shrnuje [ZASADY.md](ZASADY.md).
+
+**Oficiální znění komentovaného předpisu:** [270/2010 Sb.](https://e-sbirka.gov.cz/sb/2010/270)
+
+Výběr obsahuje 41 reprezentativních fragmentů zachycených napříč vyhláškou; zachyceny jsou zejména příkazy, zákazy a vylučovací konstrukce, dovolení, zmocnění, oprávnění a povinnosti, jakož i legální definice, fikce a účinkové konstrukce. Jde o mapu normativních signálů, nikoli o náhradu výkladu celé věty: konečnou kvalifikaci vždy určuje adresát, hypotéza, právní následek a systematický kontext ustanovení.
+
+## Teorie právních modalit
+
+Nauka rozlišuje **objektivní modality právní regulace** — tedy způsoby, jimiž objektivní právo normuje chování adresátů:
+
+- **příkaz** („má povinnost" a v legislativně obvyklém tvaru i prostý indikativ 3. osoby, kterým se účetní jednotce, komisi nebo jiné osobě ukládá aktivní jednání — „sestavuje", „zřizuje", „zajišťuje", „zjišťuje", „použije") ukládá aktivní chování; jeho nesplnění je porušením právní povinnosti;
+- **zákaz** („nepoužije", „pouze v případě", „s výjimkou") vyžaduje zdržení se určitého jednání nebo vylučuje určitý právní postup či použití jinak platného pravidla;
+- **dovolení** („může", „mohou", „není nutné") otevírá prostor volby, popřípadě stanoví, že určité jednání je přípustné za stanovených podmínek nebo že určitý jinak očekávaný úkon není třeba provést;
+- **zmocnění** je kompetenční norma: neurčuje jen chování adresáta, ale zakládá pravomoc orgánu nebo subjektu autoritativně stanovit pravidla — u vyhlášky jde jednak o zákonné zmocnění ministerstva, jednak o četná vnitřní zmocnění, jimiž vyhláška svěřuje účetní jednotce stanovit postupy, limity a odchylky vnitřním předpisem.
+
+Vedle objektivních modalit stojí **subjektivní modality**: **oprávnění** a **povinnost**. Jsou korelativní — povinnosti účetní jednotky (např. zajistit součinnost zaměstnanců s inventarizačními komisemi) zpravidla odpovídá oprávnění nebo funkční potřeba jiného subjektu (např. komise tuto součinnost vyžadovat).
+
+Zvláštní skupinou jsou **domněnky, fikce a účinkové konstrukce**. Vyhláška o inventarizaci jich využívá zejména při legální definici klíčových pojmů (formule „se rozumí" a legislativní zkratky), při fikci sbírky muzejní povahy jako samostatné a nedělitelné věci (formule „se hledí jako na") a při stanovení účinků účetních záznamů, které nahrazují jiný záznam nebo prokazují stav ke konci rozvahového dne.
+
+## Příkaz
+
+Příkazová modalita ukládá aktivní postup. Ve vyhlášce se soustřeďuje na organizační povinnosti vybrané účetní jednotky (plán, komise, identifikace), na časové hranice jejich splnění a na způsob zjišťování skutečného stavu.
+
+| Ustanovení a pramen | Normativní výraz | Znění (fragment) | Normativní účinek |
+|---|---|---|---|
+| [§ 5 odst. 1](https://e-sbirka.gov.cz/sb/2010/270#par_5)<br>[místní znění](01-obecna-organizace-inventarizace.md) | sestavuje | „Vybraná účetní jednotka sestavuje plán inventur nejpozději do zahájení první inventury." | Ukládá vyhotovit řídicí dokument inventarizace s pevnou časovou hranicí před první inventurou. |
+| [§ 4 odst. 2](https://e-sbirka.gov.cz/sb/2010/270#par_4)<br>[místní znění](01-obecna-organizace-inventarizace.md) | se zřizuje | „Inventarizační komise se zřizuje nejpozději do okamžiku zahájení inventury, jejíž provedení zajišťuje." | Váže zřízení komise na okamžik zahájení inventury; dodatečné ustavení vylučuje. |
+| [§ 4 odst. 4](https://e-sbirka.gov.cz/sb/2010/270#par_4)<br>[místní znění](01-obecna-organizace-inventarizace.md) | je nejméně | „Inventarizační komise je nejméně dvoučlenná." | Stanoví kogentní minimum složení komise jako předpoklad vzájemné kontroly a dvou podpisových záznamů. |
+| [§ 4 odst. 5](https://e-sbirka.gov.cz/sb/2010/270#par_4)<br>[místní znění](01-obecna-organizace-inventarizace.md) | zřizují | „Ministerstva a státní fondy zřizují ústřední inventarizační komisi." | Ukládá bezpodmínečnou povinnost zřídit ústřední komisi; ostatním vybraným účetním jednotkám jen při úplném externím zajištění. |
+| [§ 3 odst. 2 písm. a)](https://e-sbirka.gov.cz/sb/2010/270#par_3)<br>[místní znění](01-obecna-organizace-inventarizace.md) | zajistí | „označení všech částí inventarizačních položek nezaměnitelným inventarizačním identifikátorem pro jejich jednoznačné určení," | Ukládá úplnou identifikaci všech částí inventarizačních položek; provádí požadavek jednoznačného určení podle § 30 odst. 7 písm. a) ZÚ. |
+| [§ 7 odst. 2](https://e-sbirka.gov.cz/sb/2010/270#par_7)<br>[místní znění](01-obecna-organizace-inventarizace.md) | se prověřují | „Další skutečnosti se prověřují, pokud je to pro zjištění skutečného stavu nezbytné." | Podmíněný příkaz rozšířit dokladovou inventuru nad rámec inventarizačních evidencí, je-li to nezbytné. |
+| [§ 9 odst. 7](https://e-sbirka.gov.cz/sb/2010/270#par_9)<br>[místní znění](01-obecna-organizace-inventarizace.md) | použije | „V případě druhově určených zásob, které nelze označit způsobem podle odstavců 2 až 6, vybraná účetní jednotka použije jako inventarizační identifikátor slovní nebo jiné označení." | Ukládá subsidiární formu identifikace u druhově určených zásob. |
+| [§ 12 odst. 2](https://e-sbirka.gov.cz/sb/2010/270#par_12)<br>[místní znění](02-vybrany-majetek-zaverecna.md) | zjišťuje | „Při inventuře kulturních památek a archeologických nálezů zjišťuje účetní jednotka stav předmětu inventury ke konci rozvahového dne takovým způsobem, aby zjistila, zda vznikly důvody pro účtování o snížení nebo zvýšení tohoto majetku." | Ukládá všem účetním jednotkám zjistit stav vybraného majetku k rozvahovému dni s účelem omezeným na účetně relevantní skutečnosti. |
+
+## Zákaz
+
+Zákazová modalita vymezuje hranici nepřípustného jednání. Ve vyhlášce se projevuje především vyloučením použitelnosti jinak platných ustanovení (časově nebo věcně), podmíněným zákazem formy identifikátoru a vylučovací konstrukcí v legální definici.
+
+| Ustanovení a pramen | Normativní výraz | Znění (fragment) | Normativní účinek |
+|---|---|---|---|
+| [§ 16](https://e-sbirka.gov.cz/sb/2010/270#par_16)<br>[místní znění](02-vybrany-majetek-zaverecna.md) | nepoužije | „Pokud účetní jednotka neprovádí víceleté zjišťování skutečného stavu vybraného majetku, nepoužije ustanovení § 14 a 15." | Vylučuje zvláštní režim plánu víceletého zjišťování a inventurního závěru; § 12 a 13 se použijí nadále. |
+| [§ 17 odst. 1](https://e-sbirka.gov.cz/sb/2010/270#par_17)<br>[místní znění](02-vybrany-majetek-zaverecna.md) | nepoužije | „Vybraná účetní jednotka nepoužije ustanovení této vyhlášky pro inventarizace zahájené před 1. lednem 2011." | Časově vylučuje použití vyhlášky u vybraných účetních jednotek podle okamžiku zahájení inventarizace; dnes vyčerpáno. |
+| [§ 9 odst. 8](https://e-sbirka.gov.cz/sb/2010/270#par_9)<br>[místní znění](01-obecna-organizace-inventarizace.md) | pouze v případě | „Inventarizační identifikátor, který je pro fyzickou osobu částečně čitelný nebo nečitelný, může vybraná účetní jednotka používat pouze v případě, že zajistí možnost jeho převedení do formy, která je pro fyzickou osobu čitelná." | Podmíněný zákaz: bez zajištěné převoditelnosti do čitelné formy je použití čárového kódu, čipu apod. nepřípustné. |
+| [§ 2 písm. j)](https://e-sbirka.gov.cz/sb/2010/270#par_2)<br>[místní znění](01-obecna-organizace-inventarizace.md) | s výjimkou | „s výjimkou inventurních evidencí, jiných evidencí a zápisů v účetních knihách," | Vylučuje zápisy v účetních knihách z pomocné evidence; inventura z nich nesmí vycházet, má je ověřit. |
+| [§ 11 odst. 1](https://e-sbirka.gov.cz/sb/2010/270#par_11)<br>[místní znění](01-obecna-organizace-inventarizace.md) | v rozsahu, který zajistí | „Vybrané účetní jednotky použijí ustanovení této vyhlášky v rozsahu, který zajistí, aby byl u inventarizačních položek, které podléhají režimu utajovaných informací, zajištěn odpovídající režim stanovený jinými právními předpisy." | Omezuje použití vyhlášky tak, aby inventarizace neporušila režim utajení; inventarizaci samotnou nevylučuje. |
+
+## Dovolení
+
+Dovolovací modalita vytváří prostor volby. Ve vyhlášce se objevuje typicky ve výrazu „může" nebo „mohou" — u organizace komisí, u volby formy identifikátoru a skladby soupisu — a ve formuli „není nutné", jíž se zmírňuje požadavek vizuálního ověření.
+
+| Ustanovení a pramen | Normativní výraz | Znění (fragment) | Normativní účinek |
+|---|---|---|---|
+| [§ 4 odst. 3](https://e-sbirka.gov.cz/sb/2010/270#par_4)<br>[místní znění](01-obecna-organizace-inventarizace.md) | může | „Inventarizační komise může zajišťovat provádění inventur i více než jedné inventarizační položky a zajišťovat provádění rozdílové inventury i v případě, že zajišťovala prvotní inventuru." | Připouští kumulaci inventur u jedné komise a vylučuje výklad, že rozdílovou inventuru musí provést jiná komise. |
+| [§ 6 odst. 3](https://e-sbirka.gov.cz/sb/2010/270#par_6)<br>[místní znění](01-obecna-organizace-inventarizace.md) | může ověřovat | „může ověřovat jeho existenci i jiným vhodným způsobem nežli podle odstavce 2, například na základě potvrzení o existenci tohoto majetku osobou, která má tento majetek v držení nebo užívání." | Otevírá náhradní způsob ověření existence majetku v držení nebo užívání jiné osoby; výčet je demonstrativní. |
+| [§ 6 odst. 4](https://e-sbirka.gov.cz/sb/2010/270#par_6)<br>[místní znění](01-obecna-organizace-inventarizace.md) | není nutné | „V případě, kdy vybraná účetní jednotka nemovitý majetek běžně užívá, není nutné ověřovat jeho existenci vizuálně." | Zmírňuje požadavek vizuálního ověření u běžně užívaných nemovitostí; povinnost zjistit skutečný stav trvá. |
+| [§ 8 odst. 6](https://e-sbirka.gov.cz/sb/2010/270#par_8)<br>[místní znění](01-obecna-organizace-inventarizace.md) | mohou být obsaženy | „Skutečnosti týkající se inventurního soupisu, dodatečného inventurního soupisu i zjednodušeného inventurního soupisu mohou být obsaženy na více účetních záznamech, pokud je stanovena vzájemná vazba mezi jednotlivými účetními záznamy" | Dovoluje rozložit soupis do více záznamů pod podmínkou jejich vzájemné vazby. |
+| [§ 9 odst. 2](https://e-sbirka.gov.cz/sb/2010/270#par_9)<br>[místní znění](01-obecna-organizace-inventarizace.md) | může být | „Inventarizačním identifikátorem hmotného majetku může být výrobní číslo nebo jiné označení výrobcem, dodavatelem nebo jinou osobou, pokud je toto označení nezaměnitelné." | Připouští převzetí cizího označení jako identifikátoru, je-li nezaměnitelné. |
+| [§ 13 odst. 3](https://e-sbirka.gov.cz/sb/2010/270#par_13)<br>[místní znění](02-vybrany-majetek-zaverecna.md) | může používat | „Účetní jednotka může používat i více inventarizačních identifikátorů pro jednotlivé věci nebo soubory vybraného majetku, pokud pro účely vyhotovení inventurních závěrů je zajištěno jejich jednoznačné určení." | Dovoluje souběh více číselných řad u vybraného majetku pod podmínkou jednoznačného určení. |
+| [§ 17 odst. 2](https://e-sbirka.gov.cz/sb/2010/270#par_17)<br>[místní znění](02-vybrany-majetek-zaverecna.md) | může použít | „Vybraná účetní jednotka může ustanovení této vyhlášky použít přiměřeně i pro inventarizace související s účetním obdobím roku 2010." | Fakultativní dřívější použití vyhlášky; jde o oprávnění, nikoli povinnost. |
+
+## Zmocnění
+
+Zmocnění je kompetenční modalita. Vymezuje, kdo může nebo musí autoritativně stanovit pravidla. Vnějším zmocněním je zákonné zmocnění Ministerstva financí k vydání vyhlášky; uvnitř vyhlášky převažují vnitřní zmocnění, jimiž se vybrané účetní jednotce svěřuje stanovit konkrétní postupy, limity a odchylky, zpravidla vnitřním předpisem, a kompetence ústřední inventarizační komise.
+
+| Ustanovení a pramen | Normativní výraz | Znění (fragment) | Normativní účinek |
+|---|---|---|---|
+| [§ 37b odst. 1 ZÚ](https://e-sbirka.gov.cz/sb/1991/563#par_37b)<br>[místní znění](01-obecna-organizace-inventarizace.md) | vydá vyhlášky | „Ministerstvo vydá vyhlášky k provedení § 1f odst. 6, § 4 odst. 8, § 13b odst. 6, § 23b odst. 5, § 24 odst. 5, § 29 odst. 4 a § 30 odst. 9" | Zákonné zmocnění, na němž vyhláška stojí (citováno v úvodním tématu kapitoly 01); vymezuje meze prováděcí úpravy podle čl. 79 odst. 3 Ústavy. |
+| [§ 3 odst. 1 písm. b)](https://e-sbirka.gov.cz/sb/2010/270#par_3)<br>[místní znění](01-obecna-organizace-inventarizace.md) | zřizuje, jmenuje, stanoví | „zřizuje inventarizační komisi nebo inventarizační komise, případně ústřední inventarizační komisi, jmenuje jejich členy a stanoví rozsah pravomocí a činností těchto členů při inventarizaci," | Zakládá organizační a personální kompetenci účetní jednotky vůči komisím včetně vymezení pravomocí jejich členů. |
+| [§ 3 odst. 1 písm. j)](https://e-sbirka.gov.cz/sb/2010/270#par_3)<br>[místní znění](01-obecna-organizace-inventarizace.md) | stanoví | „stanoví výši ocenění pohledávek a závazků, od které bude prováděno vzájemné odsouhlasení jednotlivých pohledávek a závazků a zajišťuje toto odsouhlasení," | Svěřuje účetní jednotce určit limit odsouhlasení; výši vyhláška nestanoví, povinnost limit určit ano. |
+| [§ 4 odst. 6](https://e-sbirka.gov.cz/sb/2010/270#par_4)<br>[místní znění](01-obecna-organizace-inventarizace.md) | řídí a kontroluje | „Ústřední inventarizační komise řídí a kontroluje činnosti inventarizačních komisí a sestavuje inventarizační zprávu." | Zakládá řídicí a kontrolní kompetenci ústřední komise vůči dílčím komisím a příslušnost k sestavení inventarizační zprávy. |
+| [§ 10 odst. 2](https://e-sbirka.gov.cz/sb/2010/270#par_10)<br>[místní znění](01-obecna-organizace-inventarizace.md) | provádí zpravidla vnitřním předpisem | „Stanovení způsobu provedení fyzické inventury při průběžné inventarizaci provádí vybraná účetní jednotka zpravidla vnitřním předpisem." | Svěřuje účetní jednotce stanovit způsob průběžné fyzické inventury; slovo „zpravidla" připouští i jinou předem stanovenou formu. |
+| [§ 11 odst. 3](https://e-sbirka.gov.cz/sb/2010/270#par_11)<br>[místní znění](01-obecna-organizace-inventarizace.md) | provádí vnitřním předpisem | „Stanovení způsobu zajištění požadavků na organizaci a způsob provedení inventarizace podle odstavců 1 a 2 a přiměřené použití ustanovení této vyhlášky provádí vybraná účetní jednotka vnitřním předpisem." | Zakládá kompetenci upravit vnitřním předpisem (případně s utajovanou částí) zvláštní postup u utajovaných položek. |
+| [§ 13 odst. 1](https://e-sbirka.gov.cz/sb/2010/270#par_13)<br>[místní znění](02-vybrany-majetek-zaverecna.md) | stanoví vnitřním předpisem | „stanoví tyto podmínky účetní jednotka vnitřním předpisem, a to včetně seznamu a popisu těchto identifikátorů." | Subsidiární kompetence účetní jednotky stanovit podmínky identifikátoru vybraného majetku, nestanoví-li je jiný právní předpis. |
+
+## Oprávnění a povinnost
+
+Subjektivní modality popisují právní postavení konkrétních subjektů. Povinnost je ve vyhlášce typicky vyjádřena indikativem „zajišťuje", „zajistí", „využívají" nebo výslovnou formulí „má povinnost", oprávnění výrazem „může" ve spojení s konkrétním subjektem a korespondujícím prostorem, který má druhá strana respektovat.
+
+| Ustanovení a pramen | Modalita | Normativní výraz | Znění (fragment) | Normativní účinek |
+|---|---|---|---|---|
+| [§ 3 odst. 1 písm. g)](https://e-sbirka.gov.cz/sb/2010/270#par_3)<br>[místní znění](01-obecna-organizace-inventarizace.md) | povinnost | zajišťuje | „zajišťuje součinnost svých zaměstnanců a vnitřních útvarů vybrané účetní jednotky s inventarizačními komisemi," | Povinnost účetní jednotky, jejímž korelátem je funkční oprávnění komisí vyžadovat součinnost zaměstnanců a útvarů. |
+| [§ 3 odst. 3](https://e-sbirka.gov.cz/sb/2010/270#par_3)<br>[místní znění](01-obecna-organizace-inventarizace.md) | povinnost | zajistí | „vybraná účetní jednotka zajistí, aby její zaměstnanci nebo jiné osoby, kteří zajišťují provedení inventarizace, byli s těmito skutečnostmi seznámeni." | Ukládá seznámit všechny zúčastněné osoby s požadavky na inventarizaci, a to vnitřním předpisem (věta druhá). |
+| [§ 5 odst. 5](https://e-sbirka.gov.cz/sb/2010/270#par_5)<br>[místní znění](01-obecna-organizace-inventarizace.md) | povinnost | obsahuje | „obsahuje plán inventur i popis zajištění koordinace mezi vybranou účetní jednotkou a jinou osobou při inventarizaci, zejména při jednotlivých inventurách." | Při externím zajištění inventarizace ukládá popsat koordinaci s dodavatelem v plánu inventur. |
+| [§ 9 odst. 4](https://e-sbirka.gov.cz/sb/2010/270#par_9)<br>[místní znění](01-obecna-organizace-inventarizace.md) | oprávnění | může být | „Inventarizačním identifikátorem může být také označení, které vybraná účetní jednotka k majetku připojí." | Přiznává účetní jednotce oprávnění zvolit vlastní označení majetku (štítek apod.) jako identifikátor. |
+| [§ 12 odst. 3](https://e-sbirka.gov.cz/sb/2010/270#par_12)<br>[místní znění](02-vybrany-majetek-zaverecna.md) | povinnost | využívají | „Účetní jednotky využívají při inventurách kulturních památek a archeologických nálezů údaje získané při zjišťování skutečného stavu tohoto majetku a ověřování jeho souladu s evidencí vedenou podle jiného právního předpisu" | Ukládá propojit účetní inventuru se zjišťováním podle jiného předpisu, jsou-li údaje potřebné nebo využitelné. |
+| [§ 14 odst. 1 písm. b)](https://e-sbirka.gov.cz/sb/2010/270#par_14)<br>[místní znění](02-vybrany-majetek-zaverecna.md) | povinnost | zajistí | „zajistí podmínky pro průkaznost inventurních závěrů, zejména v případech, kdy není fyzicky zjišťován majetek." | Ukládá ve víceletém režimu zajistit podmínky průkaznosti, na které navazuje negativní prohlášení v inventurním závěru. |
+| [§ 17 odst. 3](https://e-sbirka.gov.cz/sb/2010/270#par_17)<br>[místní znění](02-vybrany-majetek-zaverecna.md) | povinnost | má povinnost | „Účetní jednotka, která zahájila víceleté zjišťování skutečného stavu vybraného majetku přede dnem účinnosti této vyhlášky, má povinnost naplnit ustanovení této vyhlášky nejpozději do 31. prosince 2011." | Výslovně formulovaná povinnost s pevnou lhůtou pro přizpůsobení probíhajícího víceletého zjišťování; dnes vyčerpána. |
+
+## Domněnky, fikce a účinkové konstrukce
+
+Tyto konstrukce nejsou modalitou chování v úzkém smyslu, ale určují, jak se pro účely vyhlášky vymezují klíčové pojmy, jak se nahlíží na sbírku muzejní povahy a jaké účinky mají jednotlivé účetní záznamy.
+
+| Ustanovení a pramen | Normativní výraz | Znění (fragment) | Normativní účinek |
+|---|---|---|---|
+| [§ 2](https://e-sbirka.gov.cz/sb/2010/270#par_2)<br>[místní znění](01-obecna-organizace-inventarizace.md) | se rozumí | „Pro účely této vyhlášky se rozumí" | Legální definiční konstrukce sedmnácti autonomních pojmů, platných jen pro účely vyhlášky a neměnících zákonné pojmy. |
+| [§ 2 písm. f)](https://e-sbirka.gov.cz/sb/2010/270#par_2)<br>[místní znění](01-obecna-organizace-inventarizace.md) | legislativní zkratka | „vybraným majetkem kulturní památky, sbírky muzejní povahy a archeologické nálezy," | Zavádí souhrnný pojem, na který je navázána osobní působnost části třetí vůči všem účetním jednotkám. |
+| [§ 2 písm. d)](https://e-sbirka.gov.cz/sb/2010/270#par_2)<br>[místní znění](01-obecna-organizace-inventarizace.md) | nahrazuje | „inventurním zápisem průkazný účetní záznam, kterým vybraná účetní jednotka nahrazuje při průběžné inventarizaci inventurní soupis podle § 30 odst. 8 zákona," | Náhradní účinek: inventurní zápis má při průběžné inventarizaci funkci inventurního soupisu. |
+| [§ 2 písm. g)](https://e-sbirka.gov.cz/sb/2010/270#par_2)<br>[místní znění](01-obecna-organizace-inventarizace.md) | prokazuje | „kterým tato vybraná účetní jednotka prokazuje stav ke konci rozvahového dne podle této vyhlášky," | Účinková konstrukce: inventurní závěr prokazuje stav k rozvahovému dni i u majetku, který se v daném roce fyzicky nezjišťuje. |
+| [§ 12 odst. 4](https://e-sbirka.gov.cz/sb/2010/270#par_12)<br>[místní znění](02-vybrany-majetek-zaverecna.md) | se hledí jako na | „Pro účely inventarizace se na sbírku muzejní povahy hledí jako na samostatnou a nedělitelnou věc." | Fikce omezená účelem inventarizace: inventarizační položkou je sbírka jako celek, nikoli jednotlivý sbírkový předmět. |
+| [§ 14 odst. 1](https://e-sbirka.gov.cz/sb/2010/270#par_14)<br>[místní znění](02-vybrany-majetek-zaverecna.md) | legislativní zkratka | „zjišťuje podle jiného právního předpisu skutečný stav kulturních památek a archeologických nálezů a ověřuje jeho soulad s evidencí vedenou podle tohoto právního předpisu v průběhu několika let" | Vymezuje víceleté zjišťování skutečného stavu jako režim odvozený od jiného právního předpisu; vyhláška jej sama nezakládá. |
+| [§ 18](https://e-sbirka.gov.cz/sb/2010/270#par_18)<br>[místní znění](02-vybrany-majetek-zaverecna.md) | nabývá účinnosti | „Tato vyhláška nabývá účinnosti 15. dnem ode dne jejího vyhlášení." | Účinková konstrukce navázaná na den vyhlášení; u vybraných účetních jednotek ji modifikuje § 17 odst. 1. |
+
+## Modality v systému předpisu
+
+V místním znění jsou zachyceny zejména tyto vrstvy: Příkaz, Zákaz, Dovolení, Zmocnění, Oprávnění a povinnost, Domněnky, fikce a účinkové konstrukce. Modality je třeba číst společně: příkazy a povinnosti vytvářejí základní organizační standard inventarizace (plán inventur, nejméně dvoučlenné komise zřízené včas, úplná identifikace položek, součinnost a seznámení zaměstnanců), zákazy a vylučovací konstrukce vymezují hranice (účetní knihy nejsou pomocnou evidencí, nečitelný identifikátor jen s převoditelností, vyloučení zvláštního víceletého režimu a časové vyloučení použití vyhlášky), dovolení ponechávají adresátům prostor volby (náhradní ověření existence, skladba soupisu, forma a počet identifikátorů), vnitřní zmocnění přenášejí konkrétní řešení na účetní jednotku a její vnitřní předpis a legální definice spolu s fikcí nedělitelnosti sbírky a účinkovými konstrukcemi inventurního zápisu a inventurního závěru stanovují přesné hranice pojmů a funkcí jednotlivých výstupů.
+
+Zvláštností vyhlášky je, že velká část příkazů má podobu povinnosti něco „stanovit" nebo „zajistit": vyhláška neurčuje obsah konkrétního řešení, ale ukládá účetní jednotce přijmout je předem a doložit. Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativní výraz. Rozhodující je jeho funkce v systému předpisu, adresát normy (vybraná účetní jednotka podle části druhé, nebo každá účetní jednotka s vybraným majetkem podle části třetí), meze zmocnění v zákoně o účetnictví a vazba na zásady shrnuté v [ZASADY.md](ZASADY.md).
+
+## Přehledová tabulka modalit
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| Příkaz | sestavuje; se zřizuje; zřizují; zajistí; se prověřují; použije; zjišťuje | § 4 odst. 2, 4 a 5; § 3 odst. 2 písm. a); § 5 odst. 1; § 7 odst. 2; § 9 odst. 7; § 12 odst. 2 |
+| Zákaz | nepoužije; pouze v případě; s výjimkou; v rozsahu, který zajistí | § 16; § 17 odst. 1; § 9 odst. 8; § 2 písm. j); § 11 odst. 1 |
+| Dovolení | může; mohou být obsaženy; může být; není nutné | § 4 odst. 3; § 6 odst. 3 a 4; § 8 odst. 6; § 9 odst. 2; § 13 odst. 3; § 17 odst. 2 |
+| Zmocnění | vydá vyhlášky; zřizuje, jmenuje, stanoví; řídí a kontroluje; provádí vnitřním předpisem | § 37b odst. 1 ZÚ; § 3 odst. 1 písm. b) a j); § 4 odst. 6; § 10 odst. 2; § 11 odst. 3; § 13 odst. 1 |
+| Oprávnění a povinnost | zajišťuje; zajistí; obsahuje; může být; využívají; má povinnost | § 3 odst. 1 písm. g) a odst. 3; § 5 odst. 5; § 9 odst. 4; § 12 odst. 3; § 14 odst. 1 písm. b); § 17 odst. 3 |
+| Domněnky, fikce a účinkové konstrukce | se rozumí; legislativní zkratka; nahrazuje; prokazuje; se hledí jako na; nabývá účinnosti | § 2 písm. d), f) a g); § 12 odst. 4; § 14 odst. 1; § 18 |
